@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961503170549",
+    "project_id": "toyzeetoys-ba798",
+    "storage_bucket": "toyzeetoys-ba798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961503170549:android:54ef21d05117ec6893dabc",
+        "android_client_info": {
+          "package_name": "com.example.web_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961503170549-77e8v9j7d6b0ecjan1trbm2t2o2i7oaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATROr6eOaNneUkA_VQQBNxCAUmpDj7TQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961503170549-77e8v9j7d6b0ecjan1trbm2t2o2i7oaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
